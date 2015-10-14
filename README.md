@@ -8,3 +8,9 @@ This is a documentation repository for the Accounting, Computer Science, and Ent
 
 # Contact
 This documentation is maintained by Jonathan Irvin & Jaclyn Hammond.
+
+# Testing Markdown
+*Emphasis*
+**Strong**
+*Super*emphasis
+**Super**strong
